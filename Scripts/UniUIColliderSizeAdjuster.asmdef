@@ -1,0 +1,15 @@
+{
+    "name": "UniUIColliderSizeAdjuster",
+    "references": [
+        "GUID:141f3fb76777cb540bcc3ba4eb5ae9c1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
