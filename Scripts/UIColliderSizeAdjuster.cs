@@ -54,6 +54,7 @@ namespace Kogane
 			var go = new GameObject( nameof( UIColliderSizeAdjuster ) );
 			go.transform.SetParent( m_parent );
 			m_self = go.AddComponent<RectTransform>();
+			go.AddComponent<CanvasRenderer>();
 			go.AddComponent<UICollider>();
 
 			m_self.localRotation    = Quaternion.identity;
